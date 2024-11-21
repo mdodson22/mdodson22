@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 <!--
 **mdodson22/mdodson22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Melissa Dodson and my pronouns are she/her. I am a Computer Science and Cognitive Science student at Occidental College in Los Angeles, California. I am currently working on building a portfolio including projects from my sophmore year COMP 229: Data Structures class and a couple of personal projects that I have done to deepen my programming knowledge and skills. Prior to taking my COMP 101: Introduction to Computer Science I had never coded before, and even now I am still just at the beginning of my journey learning to program. I have learned Python, Java, and C and I am currently learning HTML, CSS, and JavaScript. 
